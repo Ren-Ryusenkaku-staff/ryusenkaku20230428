@@ -1,0 +1,239 @@
+@charset "utf-8";
+
+body {
+    background-color: rgba(0, 0, 0, 0.850);
+    color: white;
+
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    padding-top: 40px;
+}
+/* メニューバー */
+.area_header {
+    display: flex;
+    background-color: red;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+}
+
+.gnavi {
+    display: flex;
+    list-style: none;
+}
+.gnavi_li_home{
+    padding: 10px;
+  }
+.gnavi_li_menu {
+  padding: 10px;
+}
+.gnavi_li_takeout {
+  padding: 10px;
+}
+.gnavi_li_news {
+  padding: 10px;
+}
+.gnavi_li_commitment {
+  padding: 10px;
+}
+.gnavi_li_insideofshop {
+  padding: 10px;
+}
+.gnavi_li_shopinfo {
+  padding: 10px;
+}
+
+
+.tel {
+  text-align: right;
+  padding: 10px;
+}
+
+.tel-number {
+    font-size: 30px;
+}
+
+/* トップ写真 */
+.top_img {
+    width: 100%;
+    height: auto;
+}
+
+/* メニュー */
+.tan {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center
+}
+
+.karubi {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.rosu {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.organ {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.organ span {
+    flex-wrap: wrap;
+}
+
+.pork {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.wiener {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.chicken {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.seafood {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.vegitable {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.zensai {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.otumami {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.otukemono {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.soup {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.rice {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.noodle {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.salad {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.a-la-carte {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.set-menu {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.softdrink {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.softdrink-list {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+    list-style: none;
+}
+
+.alcohol {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.menu-tile-image {
+    padding: 20px;
+    text-align: center;
+}
+
+.menu-tile {
+    text-align: center;
+    
+   
+}
+
+.menu-tile-name {
+    margin-top: 0%;
+}
+
+h2, h3 {
+    text-align: center;
+}
+
+.list-softdrink {
+    text-align: left;
+}
+
+.list-alcohol {
+    text-align: left;
+}
+
+.menu-jump {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+    list-style: none;
+}
+
+li {
+    padding: 10px;
+}
+
